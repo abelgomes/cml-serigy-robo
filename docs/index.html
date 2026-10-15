@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Robô de transparência — Câmara de Lagarto</title>
+<style>
+    body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; background: #f9f9f7; color: #0b0b0b; }
+    main { max-width: 760px; margin: 0 auto; padding: 32px 16px; }
+    a { color: #2a78d6; }
+    code { background: #f0efec; padding: 1px 5px; border-radius: 4px; }
+    @media (prefers-color-scheme: dark) { body { background: #0d0d0d; color: #fff; } code { background: #232321; } a { color: #3987e5; } }
+</style>
+</head>
+<body>
+<main>
+    <h1>Robô de transparência — Câmara Municipal de Lagarto/SE</h1>
+    <p>Este endereço publica a lista de documentos que a Câmara divulga no portal da Ágape, atualizada todo dia às 6h.
+       Ela é usada pelas páginas de transparência de <a href="https://www.lagarto.se.leg.br">www.lagarto.se.leg.br</a>.</p>
+    <p>Arquivo de dados: <a href="agape.json"><code>agape.json</code></a> · <span id="quando"></span></p>
+</main>
+<script>
+fetch('agape.json').then(function (r) { return r.json(); }).then(function (j) {
+    document.getElementById('quando').textContent = 'última coleta: ' + new Date(j.atualizado).toLocaleString('pt-BR');
+}).catch(function () {});
+</script>
+</body>
+</html>
