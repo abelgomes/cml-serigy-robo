@@ -78,8 +78,13 @@ async function main() {
     try {
       const docs = await lerPasta(info.f);
       // Guarda quando cada arquivo foi visto pela primeira vez, para o painel mostrar as novidades.
-      const vistoAntes = new Map((antes && antes.docs || []).map((d) => [d.ano + '|' + d.arquivo, d.primeiraVez]));
-      docs.forEach((d) => { d.primeiraVez = vistoAntes.get(d.ano + '|' + d.arquivo) || (anterior ? agora : null); });
+      // Documento que já estava na lista anterior mantém a data (ou null, se já existia antes da 1ª coleta).
+      // Só é "novo" o que aparece agora pela primeira vez — e só quando já existe uma lista anterior desta pasta.
+      const vistoAntes = new Map((antes && antes.docs || []).map((d) => [d.ano + '|' + d.arquivo, d.primeiraVez || null]));
+      docs.forEach((d) => {
+        const k = d.ano + '|' + d.arquivo;
+        d.primeiraVez = vistoAntes.has(k) ? vistoAntes.get(k) : (antes && antes.docs && antes.docs.length ? agora : null);
+      });
       saida.pastas[chave] = { f: info.f, titulo: info.titulo, lidoEm: agora, docs };
       console.log(`${chave.padEnd(20)} ${String(docs.length).padStart(3)} documentos`);
     } catch (e) {

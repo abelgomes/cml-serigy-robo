@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-10-19T12:52:30.626Z",
+ "atualizado": "2026-10-19T12:53:09.392Z",
  "fonte": "portal.sitesagapesistemas.com.br (alias cmlagarto)",
  "pastas": {
   "balancoGeral": {
    "f": 22024,
    "titulo": "Prestação de Contas (Balanço Geral)",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2025",
@@ -13,7 +13,7 @@
      "resumo": "",
      "arquivo": "arq_1fef7d19cee191583e428a12059865b1.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_1fef7d19cee191583e428a12059865b1.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -21,7 +21,7 @@
      "resumo": "",
      "arquivo": "arq_643684fd3aa615f62dd1a0cf5a13bee2.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_643684fd3aa615f62dd1a0cf5a13bee2.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -29,7 +29,7 @@
      "resumo": "",
      "arquivo": "arq_4bd2a8a1d245a23cbd4f817204646c71.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_4bd2a8a1d245a23cbd4f817204646c71.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -37,7 +37,7 @@
      "resumo": "",
      "arquivo": "arq_65b65954f60ed890b77e720f6d6e2848.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_65b65954f60ed890b77e720f6d6e2848.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2021",
@@ -45,7 +45,7 @@
      "resumo": "",
      "arquivo": "arq_db02710c3597bfea66601ed800198507.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_db02710c3597bfea66601ed800198507.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2020",
@@ -53,14 +53,14 @@
      "resumo": "",
      "arquivo": "arq_1f16d7b1315b65b14af183984812bcec.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_1f16d7b1315b65b14af183984812bcec.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "relatorioGestao": {
    "f": 2972,
    "titulo": "Relatório de Gestão, Certificado de Auditoria e Parecer do Controle Interno",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2025",
@@ -68,7 +68,7 @@
      "resumo": "",
      "arquivo": "arq_a7338a678c79adbb57e3020ed114aa9d.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_a7338a678c79adbb57e3020ed114aa9d.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -76,7 +76,7 @@
      "resumo": "",
      "arquivo": "arq_9fda0a26f0fdf786feab2df603924a80.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_9fda0a26f0fdf786feab2df603924a80.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -84,7 +84,7 @@
      "resumo": "",
      "arquivo": "arq_988aff1ac1d629bea112e8ee55c5a46e.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_988aff1ac1d629bea112e8ee55c5a46e.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -92,14 +92,14 @@
      "resumo": "",
      "arquivo": "arq_b897fb4b457de7d87ee0a9d7684d35a1.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_b897fb4b457de7d87ee0a9d7684d35a1.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "julgamentoTCE": {
    "f": 27398,
    "titulo": "Julgamento das contas do Legislativo pelo TCE",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -107,7 +107,7 @@
      "resumo": "",
      "arquivo": "arq_1b87c7724047573a2ed02189fb408962.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_1b87c7724047573a2ed02189fb408962.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2026",
@@ -115,7 +115,7 @@
      "resumo": "ACÓRDÃO N° 4099 Ref. a Decisão TC – 23.433 Processo TC nº 009290/2017.",
      "arquivo": "arq_f5c55366f925d0099adb0d514247ee46.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_f5c55366f925d0099adb0d514247ee46.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -123,7 +123,7 @@
      "resumo": "",
      "arquivo": "arq_1b87c7724047573a2ed02189fb408962.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_1b87c7724047573a2ed02189fb408962.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -131,7 +131,7 @@
      "resumo": "CONTAS ANUAIS DO PODER LEGISLATIVO 2021 ( JULGADA EM 13/06/2024 )",
      "arquivo": "arq_365b82e5966832e30afb8fd7284bf816.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_365b82e5966832e30afb8fd7284bf816.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -139,7 +139,7 @@
      "resumo": "CONTAS ANUAIS DO PODER LEGISLATIVO 2022 ( JULGADA EM 27/06/2024 )",
      "arquivo": "arq_60ea1c5306ff95fdf865486a12792f64.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_60ea1c5306ff95fdf865486a12792f64.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -147,7 +147,7 @@
      "resumo": "CONTAS ANUAIS DO PODER LEGISLATIVO 2014 ( JULGADA EM 08/02/2024 )",
      "arquivo": "arq_0fce62766fb67b7732c8c66bab87e742.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_0fce62766fb67b7732c8c66bab87e742.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -155,7 +155,7 @@
      "resumo": "",
      "arquivo": "arq_1b87c7724047573a2ed02189fb408962.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_1b87c7724047573a2ed02189fb408962.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -163,7 +163,7 @@
      "resumo": "JULGAMENTO DAS CONTAS - EXERCICIO 2020 ( JULGADA EM 04/05/2023 )",
      "arquivo": "arq_8ef48a72bc94ca1f08af19f799bb86ea.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_8ef48a72bc94ca1f08af19f799bb86ea.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -171,7 +171,7 @@
      "resumo": "JULGAMENTO DAS CONTAS - EXERCICIO 2019 ( JULGADA EM 07/07/2022 )",
      "arquivo": "arq_1b4e64bded5e6384568dead3b0df8273.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_1b4e64bded5e6384568dead3b0df8273.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -179,14 +179,14 @@
      "resumo": "DECISÃO TC 23433, JULGAMENTO CONTAS ANUAIS EXERCÍCIO 2016 (Julgadas em 27/10/2022",
      "arquivo": "arq_335410af2ed4ab6472ddc0bdf638972b.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_335410af2ed4ab6472ddc0bdf638972b.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "julgamentoExecutivo": {
    "f": 27397,
    "titulo": "Julgamento das contas do Executivo",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -194,7 +194,7 @@
      "resumo": "NOTA EXPLICATIVA 2026",
      "arquivo": "arq_7b2b5776c1afb5395ae64a0e38573230.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_7b2b5776c1afb5395ae64a0e38573230.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -202,7 +202,7 @@
      "resumo": "APROVA AS CONTAS ANUAIS DA PREFEITURA MUNICIPAL DE LAGARTO, RELATIVAS AO EXERCÍCIO FINANCEIRO DE 2014.",
      "arquivo": "arq_a56e026ceec96ac949d7ee714f8369ca.PDF",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_a56e026ceec96ac949d7ee714f8369ca.PDF",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -210,7 +210,7 @@
      "resumo": "APROVA AS CONTAS ANUAIS DA PREFEITURA MUNICIPAL DE LAGARTO, RELATIVAS AO EXERCÍCIO FINANCEIRO DE 2001.",
      "arquivo": "arq_7ab94802297cddda919b508ec498c9ec.PDF",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_7ab94802297cddda919b508ec498c9ec.PDF",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -218,7 +218,7 @@
      "resumo": "RATIFICA PARECER PRÉVIO Nº 3245, DO TRIBUNAL DE CONTAS DO ESTADO DE SERGIPE, QUE RECOMENDA A APROVAÇÃO COM RESSALVAS, DAS CONTAS ANUAIS DA PREFEITURA MUNICIPAL DE LAGARTO, RELATIVAS AO EXERCÍCIO FINANCEIRO DE 2010.",
      "arquivo": "arq_1508c9ecdab98288edae5eca454be9c8.PDF",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_1508c9ecdab98288edae5eca454be9c8.PDF",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -226,7 +226,7 @@
      "resumo": "RATIFICA PARECER PRÉVIO Nº 3469, DAS CONTAS ANUAIS DA PREFEITURA MUNICIPAL DE LAGARTO, RELATIVAS AO EXERCÍCIO FINANCEIRO DE 2016.",
      "arquivo": "arq_c9ef2cd2dce95618e6e5f11b40cf3334.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_c9ef2cd2dce95618e6e5f11b40cf3334.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -234,7 +234,7 @@
      "resumo": "NOTA EXPLICATIVA 2025",
      "arquivo": "arq_7b2b5776c1afb5395ae64a0e38573230.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_7b2b5776c1afb5395ae64a0e38573230.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -242,7 +242,7 @@
      "resumo": "NOTA EXPLICATIVA 2024",
      "arquivo": "arq_7b2b5776c1afb5395ae64a0e38573230.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_7b2b5776c1afb5395ae64a0e38573230.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -250,7 +250,7 @@
      "resumo": "NOTA EXPLICATIVA 2023",
      "arquivo": "arq_7b2b5776c1afb5395ae64a0e38573230.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_7b2b5776c1afb5395ae64a0e38573230.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -258,7 +258,7 @@
      "resumo": "NOTA EXPLICATIVA 2022",
      "arquivo": "arq_30113ac25fd80decf0198d659fdd11b0.PDF",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_30113ac25fd80decf0198d659fdd11b0.PDF",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2021",
@@ -266,7 +266,7 @@
      "resumo": "NOTA EXPLICATIVA 2021",
      "arquivo": "arq_f171fe7a76452d4e8c2339f4371df91e.PDF",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_f171fe7a76452d4e8c2339f4371df91e.PDF",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2018",
@@ -274,7 +274,7 @@
      "resumo": "APROVA AS CONTAS ANUAIS DA PREFEITURA DE LAGARTO, RELATIVAS AO EXERCÍCIO FINANCEIRO DE 2007.",
      "arquivo": "arq_bb5b3169c93c004f8131b8183f385cb9.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_bb5b3169c93c004f8131b8183f385cb9.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2018",
@@ -282,7 +282,7 @@
      "resumo": "RATIFICA PARECER PRÉVIO TC Nº3161, DO TRIBUNAL DE CONTAS DO ESTADO DE SERGIPE, QUE RECOMENDA A APROVAÇÃO COM RESSALVAS, DAS CONTAS ANUAIS DA PREFEITURA MUNICIPAL DE LAGARTO, RELATIVAS AO EXERCÍCIO FINANCEIRO DE 2006.",
      "arquivo": "arq_d66131dd320ca0356165221d1575c141.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_d66131dd320ca0356165221d1575c141.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2016",
@@ -290,7 +290,7 @@
      "resumo": "EJEITA PARECER PRÉVIO TC Nº 2044/00 DO TRIBUNAL DE CONTAS DO ESTADO DE SERGIPE, QUE RECOMENDA A REJEIÇÃO DAS CONTAS ANUAIS DA PREFEITURA MUNICIPAL DE LAGARTO, RELATIVAS AO EXERCÍCIO FINANCEIRO DO ANO DE 1997.",
      "arquivo": "arq_c475540cf0855cf03b6c20985e727fd6.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_c475540cf0855cf03b6c20985e727fd6.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2016",
@@ -298,14 +298,14 @@
      "resumo": "RATIFICA O PARECER PRÉVIO TC Nº 3036/16 DO TRIBUNAL DE CONTAS DO ESTADO DE SERGIPE, QUE RECOMENDA A APROVAÇÃO COM RESSALVAS E DETERMINAÇÃO, DAS CONTAS ANUAIS DA PREFEITURA MUNICIPAL DE LAGARTO, RELATIVAS AO EXERCÍCIO FINANCEIRO DE 2011.",
      "arquivo": "arq_7efe098f783c5c689d312672a913110d.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_7efe098f783c5c689d312672a913110d.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "rgf": {
    "f": 36,
    "titulo": "Relatório de Gestão Fiscal (RGF)",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -313,7 +313,7 @@
      "resumo": "",
      "arquivo": "arq_7fb49fcae460db7b656806c22c969ea6.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_7fb49fcae460db7b656806c22c969ea6.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2026",
@@ -321,7 +321,7 @@
      "resumo": "",
      "arquivo": "arq_c01696707a45436f020efcc51075b6a8.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_c01696707a45436f020efcc51075b6a8.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -329,7 +329,7 @@
      "resumo": "",
      "arquivo": "arq_e1c608cbb41c02d81b9ecec7fb30de36.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_e1c608cbb41c02d81b9ecec7fb30de36.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -337,7 +337,7 @@
      "resumo": "",
      "arquivo": "arq_8b59e33fcdb0ebc6e872b6a3b76c421a.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_8b59e33fcdb0ebc6e872b6a3b76c421a.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -345,7 +345,7 @@
      "resumo": "",
      "arquivo": "arq_6b3098f4ad408b8e686cc0a08133cb1c.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_6b3098f4ad408b8e686cc0a08133cb1c.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -353,7 +353,7 @@
      "resumo": "",
      "arquivo": "arq_fae6483ed4c4d4d8f2650643286f8941.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_fae6483ed4c4d4d8f2650643286f8941.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -361,7 +361,7 @@
      "resumo": "",
      "arquivo": "arq_a5c64045db6fc37166b2192827079875.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_a5c64045db6fc37166b2192827079875.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -369,7 +369,7 @@
      "resumo": "",
      "arquivo": "arq_5820bc2769f3f69747bf31b933f7ad23.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_5820bc2769f3f69747bf31b933f7ad23.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -377,7 +377,7 @@
      "resumo": "",
      "arquivo": "arq_d4eddf0941eaa61e1949da8c5cad33f1.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_d4eddf0941eaa61e1949da8c5cad33f1.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -385,7 +385,7 @@
      "resumo": "",
      "arquivo": "arq_82edb135475bb769463369597d68193d.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_82edb135475bb769463369597d68193d.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -393,7 +393,7 @@
      "resumo": "",
      "arquivo": "arq_ec2faf6cadd15a95a993ab9303f907a4.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_ec2faf6cadd15a95a993ab9303f907a4.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -401,14 +401,14 @@
      "resumo": "RELATÓRIO DE GESTÃO FISCAL (RGF) - 2º QUADRIMESTRE/2022",
      "arquivo": "arq_7b69cfba0c8bd29b212e87b681adb56b.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_7b69cfba0c8bd29b212e87b681adb56b.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "planoEstrategico": {
    "f": 22017,
    "titulo": "Plano Estratégico Institucional",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2023",
@@ -416,14 +416,14 @@
      "resumo": "",
      "arquivo": "arq_1bbae796d10ee8fc029a89be7e6a8a19.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_1bbae796d10ee8fc029a89be7e6a8a19.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "convenios": {
    "f": 3883,
    "titulo": "Convênios e transferências (notas explicativas)",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -431,7 +431,7 @@
      "resumo": "",
      "arquivo": "arq_3f01bc8d747fbb003191c281db493f23.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_3f01bc8d747fbb003191c281db493f23.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -439,7 +439,7 @@
      "resumo": "",
      "arquivo": "arq_c4deead10fee08b45b7fb334c4d7d5a3.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_c4deead10fee08b45b7fb334c4d7d5a3.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -447,7 +447,7 @@
      "resumo": "",
      "arquivo": "arq_c4deead10fee08b45b7fb334c4d7d5a3.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_c4deead10fee08b45b7fb334c4d7d5a3.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -455,14 +455,14 @@
      "resumo": "",
      "arquivo": "arq_c4deead10fee08b45b7fb334c4d7d5a3.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_c4deead10fee08b45b7fb334c4d7d5a3.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "obras": {
    "f": 19433,
    "titulo": "Obras",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -470,7 +470,7 @@
      "resumo": "",
      "arquivo": "arq_b56a2999e10e374882cd10b7c78cfe73.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_b56a2999e10e374882cd10b7c78cfe73.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -478,7 +478,7 @@
      "resumo": "",
      "arquivo": "arq_b38315a08d047a299d3a4b443b9c0f0e.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_b38315a08d047a299d3a4b443b9c0f0e.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -486,7 +486,7 @@
      "resumo": "",
      "arquivo": "arq_b38315a08d047a299d3a4b443b9c0f0e.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_b38315a08d047a299d3a4b443b9c0f0e.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -494,7 +494,7 @@
      "resumo": "",
      "arquivo": "arq_b38315a08d047a299d3a4b443b9c0f0e.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_b38315a08d047a299d3a4b443b9c0f0e.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -502,7 +502,7 @@
      "resumo": "",
      "arquivo": "arq_9a31468044d47cdf65ded1319acda4de.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_9a31468044d47cdf65ded1319acda4de.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2021",
@@ -510,7 +510,7 @@
      "resumo": "",
      "arquivo": "arq_f99fa76d4c68c4b9ed7dfaf54c59e720.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_f99fa76d4c68c4b9ed7dfaf54c59e720.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2021",
@@ -518,7 +518,7 @@
      "resumo": "",
      "arquivo": "arq_0eee3be4aeda4e9f8826bbe0b2a6d6b9.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_0eee3be4aeda4e9f8826bbe0b2a6d6b9.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2020",
@@ -526,14 +526,14 @@
      "resumo": "",
      "arquivo": "arq_60c6f822f960e1f461b2f36ac58ae7e1.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_60c6f822f960e1f461b2f36ac58ae7e1.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "cotas": {
    "f": 22039,
    "titulo": "Verba indenizatória (notas explicativas)",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -541,7 +541,7 @@
      "resumo": "",
      "arquivo": "arq_8a644746517f7cd5919550a87976e197.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_8a644746517f7cd5919550a87976e197.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -549,7 +549,7 @@
      "resumo": "",
      "arquivo": "arq_ba4363a0361c14bd5976aabfe25ec5b2.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_ba4363a0361c14bd5976aabfe25ec5b2.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -557,7 +557,7 @@
      "resumo": "",
      "arquivo": "arq_ba4363a0361c14bd5976aabfe25ec5b2.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_ba4363a0361c14bd5976aabfe25ec5b2.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -565,7 +565,7 @@
      "resumo": "",
      "arquivo": "arq_f08ec801d7307d97f99fabd258d951b1.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_f08ec801d7307d97f99fabd258d951b1.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2021",
@@ -573,7 +573,7 @@
      "resumo": "",
      "arquivo": "arq_f08ec801d7307d97f99fabd258d951b1.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_f08ec801d7307d97f99fabd258d951b1.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -581,14 +581,14 @@
      "resumo": "",
      "arquivo": "arq_ba4363a0361c14bd5976aabfe25ec5b2.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_ba4363a0361c14bd5976aabfe25ec5b2.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "votacoesNominais": {
    "f": 22036,
    "titulo": "Votações nominais",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -596,7 +596,7 @@
      "resumo": "VOTAÇÕES NOMINAIS 2025",
      "arquivo": "arq_33abf7fa3d181649b8f5f5ab836a5075.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_33abf7fa3d181649b8f5f5ab836a5075.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -604,7 +604,7 @@
      "resumo": "VOTAÇÕES NOMINAIS 2025",
      "arquivo": "arq_56befa1c65923aaacb5d0f3bda29fb09.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_56befa1c65923aaacb5d0f3bda29fb09.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -612,7 +612,7 @@
      "resumo": "",
      "arquivo": "arq_3fb12dfadd80ef830c96ce98641016ce.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_3fb12dfadd80ef830c96ce98641016ce.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -620,7 +620,7 @@
      "resumo": "",
      "arquivo": "arq_31dfe80a6d9c39be570338f0b92377a0.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_31dfe80a6d9c39be570338f0b92377a0.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -628,14 +628,14 @@
      "resumo": "",
      "arquivo": "arq_1287a854c57006fa8e1f6da189fac8af.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_1287a854c57006fa8e1f6da189fac8af.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "pca": {
    "f": 20947,
    "titulo": "Plano de Contratações Anual (PCA)",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -643,7 +643,7 @@
      "resumo": "",
      "arquivo": "arq_d010180c037eba0894068a30f17e3d2b.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_d010180c037eba0894068a30f17e3d2b.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -651,7 +651,7 @@
      "resumo": "",
      "arquivo": "arq_421ee21689b297f2f19b6cbfe82557ab.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_421ee21689b297f2f19b6cbfe82557ab.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -659,14 +659,14 @@
      "resumo": "PCA 2023",
      "arquivo": "arq_ce83e2c4af375f0a02ff4a2abab007e4.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_ce83e2c4af375f0a02ff4a2abab007e4.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "sancoes": {
    "f": 24141,
    "titulo": "Licitantes sancionados (notas explicativas)",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -674,7 +674,7 @@
      "resumo": "",
      "arquivo": "arq_849df093c72b4eb892d05303879dde24.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_849df093c72b4eb892d05303879dde24.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -682,7 +682,7 @@
      "resumo": "",
      "arquivo": "arq_6cf7b2f8d25c4437fcdc8dba7aff10f4.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_6cf7b2f8d25c4437fcdc8dba7aff10f4.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -690,7 +690,7 @@
      "resumo": "",
      "arquivo": "arq_6cf7b2f8d25c4437fcdc8dba7aff10f4.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_6cf7b2f8d25c4437fcdc8dba7aff10f4.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -698,7 +698,7 @@
      "resumo": "",
      "arquivo": "arq_b3d261bfca48c340defb97b7c587b810.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_b3d261bfca48c340defb97b7c587b810.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2021",
@@ -706,7 +706,7 @@
      "resumo": "",
      "arquivo": "arq_b3d261bfca48c340defb97b7c587b810.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_b3d261bfca48c340defb97b7c587b810.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2020",
@@ -714,7 +714,7 @@
      "resumo": "",
      "arquivo": "arq_b3d261bfca48c340defb97b7c587b810.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_b3d261bfca48c340defb97b7c587b810.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -722,14 +722,14 @@
      "resumo": "",
      "arquivo": "arq_6cf7b2f8d25c4437fcdc8dba7aff10f4.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_6cf7b2f8d25c4437fcdc8dba7aff10f4.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "estagiarios": {
    "f": 21652,
    "titulo": "Estagiários (declarações)",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -737,7 +737,7 @@
      "resumo": "",
      "arquivo": "arq_e7f430430af3a5c0e704a91ef5316b8d.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_e7f430430af3a5c0e704a91ef5316b8d.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -745,7 +745,7 @@
      "resumo": "",
      "arquivo": "arq_6244c23e79a736c2cdc855fca31a6b7c.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_6244c23e79a736c2cdc855fca31a6b7c.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -753,7 +753,7 @@
      "resumo": "",
      "arquivo": "arq_0faa3a6dacf41620a2f07680275723d7.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_0faa3a6dacf41620a2f07680275723d7.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -761,7 +761,7 @@
      "resumo": "",
      "arquivo": "arq_277365f0f90db2ae974e0678cbad2f6e.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_277365f0f90db2ae974e0678cbad2f6e.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -769,7 +769,7 @@
      "resumo": "",
      "arquivo": "arq_d0c50aa67e6f45f60f1760e2a49bb7f8.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_d0c50aa67e6f45f60f1760e2a49bb7f8.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2021",
@@ -777,7 +777,7 @@
      "resumo": "",
      "arquivo": "arq_d570fdea492b67a749877fc1ca96c50a.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_d570fdea492b67a749877fc1ca96c50a.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2020",
@@ -785,7 +785,7 @@
      "resumo": "",
      "arquivo": "arq_f20977c2b894673d4cf15011a199d6a9.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_f20977c2b894673d4cf15011a199d6a9.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2019",
@@ -793,14 +793,14 @@
      "resumo": "",
      "arquivo": "arq_a3dedffaeda2c799f2465522ef4d54d4.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_a3dedffaeda2c799f2465522ef4d54d4.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "terceirizados": {
    "f": 21666,
    "titulo": "Terceirizados (declarações)",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -808,7 +808,7 @@
      "resumo": "",
      "arquivo": "arq_63257a037d3e0795f93b6251c680ad58.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_63257a037d3e0795f93b6251c680ad58.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -816,7 +816,7 @@
      "resumo": "",
      "arquivo": "arq_b1e28ee43416f0f01a37a345c83cc498.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_b1e28ee43416f0f01a37a345c83cc498.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -824,7 +824,7 @@
      "resumo": "",
      "arquivo": "arq_d71cd922ce8e163cc7e5cd61adae8445.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_d71cd922ce8e163cc7e5cd61adae8445.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -832,7 +832,7 @@
      "resumo": "",
      "arquivo": "arq_d3636603e53657510321a10f6ed4c0ac.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_d3636603e53657510321a10f6ed4c0ac.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -840,7 +840,7 @@
      "resumo": "",
      "arquivo": "arq_0dad1706a4d7c6b03e3fe87b720c6caa.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_0dad1706a4d7c6b03e3fe87b720c6caa.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2021",
@@ -848,7 +848,7 @@
      "resumo": "",
      "arquivo": "arq_d570fdea492b67a749877fc1ca96c50a.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_d570fdea492b67a749877fc1ca96c50a.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2020",
@@ -856,7 +856,7 @@
      "resumo": "",
      "arquivo": "arq_f20977c2b894673d4cf15011a199d6a9.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_f20977c2b894673d4cf15011a199d6a9.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2019",
@@ -864,14 +864,14 @@
      "resumo": "",
      "arquivo": "arq_a3dedffaeda2c799f2465522ef4d54d4.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_a3dedffaeda2c799f2465522ef4d54d4.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "concursos": {
    "f": 20605,
    "titulo": "Concursos e processos seletivos (declarações)",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -879,7 +879,7 @@
      "resumo": "",
      "arquivo": "arq_00222df3c803e6765b457076718cf765.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_00222df3c803e6765b457076718cf765.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -887,7 +887,7 @@
      "resumo": "",
      "arquivo": "arq_7708d5f790295089b4555fd6c1978f7e.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_7708d5f790295089b4555fd6c1978f7e.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -895,7 +895,7 @@
      "resumo": "",
      "arquivo": "arq_91a5f618044f8cf91ab37fc4d39a1f66.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_91a5f618044f8cf91ab37fc4d39a1f66.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -903,7 +903,7 @@
      "resumo": "",
      "arquivo": "arq_537b2c98a0f40d6297cb1c62cc993ffd.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_537b2c98a0f40d6297cb1c62cc993ffd.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -911,7 +911,7 @@
      "resumo": "",
      "arquivo": "arq_398799c0387f81bac2593e3523db01d9.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_398799c0387f81bac2593e3523db01d9.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -919,7 +919,7 @@
      "resumo": "",
      "arquivo": "arq_800704059b997229e39f9ab9848865b3.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_800704059b997229e39f9ab9848865b3.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -927,7 +927,7 @@
      "resumo": "",
      "arquivo": "arq_4b8ecf6276055140a49e2e8d4a199811.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_4b8ecf6276055140a49e2e8d4a199811.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -935,7 +935,7 @@
      "resumo": "",
      "arquivo": "arq_65b1aaa307f93fe07d2a27ff86ba3e8d.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_65b1aaa307f93fe07d2a27ff86ba3e8d.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -943,7 +943,7 @@
      "resumo": "",
      "arquivo": "arq_20b09687febe3b02824d9f25c0526249.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_20b09687febe3b02824d9f25c0526249.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -951,7 +951,7 @@
      "resumo": "",
      "arquivo": "arq_ed3c22faf79e04339ce973c0df8921f6.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_ed3c22faf79e04339ce973c0df8921f6.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -959,7 +959,7 @@
      "resumo": "",
      "arquivo": "arq_4014bb40f98c33c38135b9559b960af6.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_4014bb40f98c33c38135b9559b960af6.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2021",
@@ -967,7 +967,7 @@
      "resumo": "",
      "arquivo": "arq_cb62a67a5c87a2a469c78d307e906e64.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_cb62a67a5c87a2a469c78d307e906e64.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2020",
@@ -975,7 +975,7 @@
      "resumo": "",
      "arquivo": "arq_424f1462649f3662d2d1cc5d15070713.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_424f1462649f3662d2d1cc5d15070713.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2019",
@@ -983,14 +983,14 @@
      "resumo": "",
      "arquivo": "arq_4eb2f1422f4ae7db6d1b29a0bc9d5a38.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_4eb2f1422f4ae7db6d1b29a0bc9d5a38.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "fiscaisContratos": {
    "f": 24140,
    "titulo": "Relação de contratos e fiscais",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -998,7 +998,7 @@
      "resumo": "",
      "arquivo": "arq_f2b9d527314adf14e5ac1a53e87fefe2.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_f2b9d527314adf14e5ac1a53e87fefe2.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -1006,7 +1006,7 @@
      "resumo": "",
      "arquivo": "arq_1993033833777d30bc58b251265bb685.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_1993033833777d30bc58b251265bb685.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -1014,7 +1014,7 @@
      "resumo": "",
      "arquivo": "arq_a76c636819c7a08e356e5a7752b4cc9b.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_a76c636819c7a08e356e5a7752b4cc9b.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -1022,7 +1022,7 @@
      "resumo": "",
      "arquivo": "arq_d300af0fd10f5ee6927390393b52f463.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_d300af0fd10f5ee6927390393b52f463.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -1030,14 +1030,14 @@
      "resumo": "",
      "arquivo": "arq_66d0e26852c9dfaf5901f746768fc74b.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_66d0e26852c9dfaf5901f746768fc74b.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "quadroRemuneratorio": {
    "f": 2960,
    "titulo": "Quadro remuneratório de cargos",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2025",
@@ -1045,7 +1045,7 @@
      "resumo": "",
      "arquivo": "arq_19fcf2648a904250aeb408391ead7502.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_19fcf2648a904250aeb408391ead7502.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -1053,7 +1053,7 @@
      "resumo": "",
      "arquivo": "arq_a477a438e43dfef3296612cea4690bd7.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_a477a438e43dfef3296612cea4690bd7.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -1061,7 +1061,7 @@
      "resumo": "",
      "arquivo": "arq_2859b4bcefa3223f6838fed276a320e6.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_2859b4bcefa3223f6838fed276a320e6.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -1069,14 +1069,14 @@
      "resumo": "",
      "arquivo": "arq_ed54777cf39b19b2be0e5d45e7768213.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_ed54777cf39b19b2be0e5d45e7768213.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   },
   "diarias": {
    "f": 20911,
    "titulo": "Diárias (lei e tabela de valores)",
-   "lidoEm": "2026-10-19T12:52:30.626Z",
+   "lidoEm": "2026-10-19T12:53:09.392Z",
    "docs": [
     {
      "ano": "2026",
@@ -1084,7 +1084,7 @@
      "resumo": "",
      "arquivo": "arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2026",
@@ -1092,7 +1092,7 @@
      "resumo": "LEI DIÁRIAS",
      "arquivo": "arq_06f25e0b3ccdb66c1a952abfe397d406.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_06f25e0b3ccdb66c1a952abfe397d406.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2026",
@@ -1100,7 +1100,7 @@
      "resumo": "",
      "arquivo": "arq_393642ebff5a558c549f1942e96cb979.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_393642ebff5a558c549f1942e96cb979.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -1108,7 +1108,7 @@
      "resumo": "",
      "arquivo": "arq_393642ebff5a558c549f1942e96cb979.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_393642ebff5a558c549f1942e96cb979.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -1116,7 +1116,7 @@
      "resumo": "",
      "arquivo": "arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2025",
@@ -1124,7 +1124,7 @@
      "resumo": "LEI DIÁRIAS",
      "arquivo": "arq_06f25e0b3ccdb66c1a952abfe397d406.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_06f25e0b3ccdb66c1a952abfe397d406.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -1132,7 +1132,7 @@
      "resumo": "",
      "arquivo": "arq_393642ebff5a558c549f1942e96cb979.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_393642ebff5a558c549f1942e96cb979.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2024",
@@ -1140,7 +1140,7 @@
      "resumo": "",
      "arquivo": "arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -1148,7 +1148,7 @@
      "resumo": "",
      "arquivo": "arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2023",
@@ -1156,7 +1156,7 @@
      "resumo": "",
      "arquivo": "arq_393642ebff5a558c549f1942e96cb979.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_393642ebff5a558c549f1942e96cb979.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2022",
@@ -1164,7 +1164,7 @@
      "resumo": "",
      "arquivo": "arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2021",
@@ -1172,7 +1172,7 @@
      "resumo": "",
      "arquivo": "arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2020",
@@ -1180,7 +1180,7 @@
      "resumo": "",
      "arquivo": "arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     },
     {
      "ano": "2019",
@@ -1188,7 +1188,7 @@
      "resumo": "",
      "arquivo": "arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
      "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_598d259b3cb9a2bb8c102a9b2e5affcc.pdf",
-     "primeiraVez": "2026-10-19T12:52:30.626Z"
+     "primeiraVez": null
     }
    ]
   }
