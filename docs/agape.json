@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-10-20T13:59:45.528Z",
+ "atualizado": "2026-10-20T14:46:02.079Z",
  "fonte": "portal.sitesagapesistemas.com.br (alias cmlagarto)",
  "pastas": {
   "balancoGeral": {
    "f": 22024,
    "titulo": "Prestação de Contas (Balanço Geral)",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2025",
@@ -60,7 +60,7 @@
   "relatorioGestao": {
    "f": 2972,
    "titulo": "Relatório de Gestão, Certificado de Auditoria e Parecer do Controle Interno",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2025",
@@ -99,7 +99,7 @@
   "julgamentoTCE": {
    "f": 27398,
    "titulo": "Julgamento das contas do Legislativo pelo TCE",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -186,7 +186,7 @@
   "julgamentoExecutivo": {
    "f": 27397,
    "titulo": "Julgamento das contas do Executivo",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -305,7 +305,7 @@
   "rgf": {
    "f": 36,
    "titulo": "Relatório de Gestão Fiscal (RGF)",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -408,7 +408,7 @@
   "planoEstrategico": {
    "f": 22017,
    "titulo": "Plano Estratégico Institucional",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2023",
@@ -423,7 +423,7 @@
   "convenios": {
    "f": 3883,
    "titulo": "Convênios e transferências (notas explicativas)",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -462,7 +462,7 @@
   "obras": {
    "f": 19433,
    "titulo": "Obras",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -533,7 +533,7 @@
   "cotas": {
    "f": 22039,
    "titulo": "Verba indenizatória (notas explicativas)",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -588,7 +588,7 @@
   "votacoesNominais": {
    "f": 22036,
    "titulo": "Votações nominais",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -635,7 +635,7 @@
   "pca": {
    "f": 20947,
    "titulo": "Plano de Contratações Anual (PCA)",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -663,10 +663,73 @@
     }
    ]
   },
+  "atasSRP": {
+   "f": 24139,
+   "titulo": "Atas de adesão – SRP (notas explicativas)",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
+   "docs": [
+    {
+     "ano": "2026",
+     "titulo": "NOTA EXPLICATIVA - ATAS DE ADESÃO/SRP",
+     "resumo": "",
+     "arquivo": "arq_41e6b34caf967035f78c8970b0ffd6af.pdf",
+     "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_41e6b34caf967035f78c8970b0ffd6af.pdf",
+     "primeiraVez": null
+    },
+    {
+     "ano": "2025",
+     "titulo": "NOTA EXPLICATIVA - ATAS DE ADESÃO/SRP",
+     "resumo": "",
+     "arquivo": "arq_19c67c77a1367384667444b19da8ea20.pdf",
+     "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_19c67c77a1367384667444b19da8ea20.pdf",
+     "primeiraVez": null
+    },
+    {
+     "ano": "2024",
+     "titulo": "NOTA EXPLICATIVA - ATAS DE ADESÃO/SRP",
+     "resumo": "",
+     "arquivo": "arq_c5adfb073fda4731a70bbf8905848bcb.pdf",
+     "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_c5adfb073fda4731a70bbf8905848bcb.pdf",
+     "primeiraVez": null
+    },
+    {
+     "ano": "2022",
+     "titulo": "NOTA EXPLICATIVA - ATAS DE ADESÃO/SRP",
+     "resumo": "",
+     "arquivo": "arq_46f5c658dd079a861d332a8c07634e95.pdf",
+     "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_46f5c658dd079a861d332a8c07634e95.pdf",
+     "primeiraVez": null
+    },
+    {
+     "ano": "2021",
+     "titulo": "NOTA EXPLICATIVA - ATAS DE ADESÃO/SRP",
+     "resumo": "",
+     "arquivo": "arq_46f5c658dd079a861d332a8c07634e95.pdf",
+     "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_46f5c658dd079a861d332a8c07634e95.pdf",
+     "primeiraVez": null
+    },
+    {
+     "ano": "2020",
+     "titulo": "NOTA EXPLICATIVA - ATAS DE ADESÃO/SRP",
+     "resumo": "",
+     "arquivo": "arq_46f5c658dd079a861d332a8c07634e95.pdf",
+     "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_46f5c658dd079a861d332a8c07634e95.pdf",
+     "primeiraVez": null
+    },
+    {
+     "ano": "2023",
+     "titulo": "NOTA EXPLICATIVA - ATAS DE ADESÃO/SRP",
+     "resumo": "",
+     "arquivo": "arq_adc75800b729ea08d122b8cea20f0bf6.pdf",
+     "url": "https://portal.sitesagapesistemas.com.br/agape2/upload/arquivos/75/arq_adc75800b729ea08d122b8cea20f0bf6.pdf",
+     "primeiraVez": null
+    }
+   ]
+  },
   "sancoes": {
    "f": 24141,
    "titulo": "Licitantes sancionados (notas explicativas)",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -729,7 +792,7 @@
   "estagiarios": {
    "f": 21652,
    "titulo": "Estagiários (declarações)",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -800,7 +863,7 @@
   "terceirizados": {
    "f": 21666,
    "titulo": "Terceirizados (declarações)",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -871,7 +934,7 @@
   "concursos": {
    "f": 20605,
    "titulo": "Concursos e processos seletivos (declarações)",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -990,7 +1053,7 @@
   "fiscaisContratos": {
    "f": 24140,
    "titulo": "Relação de contratos e fiscais",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
@@ -1037,7 +1100,7 @@
   "quadroRemuneratorio": {
    "f": 2960,
    "titulo": "Quadro remuneratório de cargos",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2025",
@@ -1076,7 +1139,7 @@
   "diarias": {
    "f": 20911,
    "titulo": "Diárias (lei e tabela de valores)",
-   "lidoEm": "2026-10-20T13:59:45.528Z",
+   "lidoEm": "2026-10-20T14:46:02.079Z",
    "docs": [
     {
      "ano": "2026",
