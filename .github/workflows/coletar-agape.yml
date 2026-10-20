@@ -30,6 +30,13 @@ jobs:
       - name: Ler as pastas da Ágape
         run: node robo/coletar-agape.mjs
 
+      # Licitações, contratos e folha (sistemas da Ágape). Os arquivos vão só para o site (docs/sistemas),
+      # não para o histórico do repositório. Se falhar, a publicação dos documentos continua.
+      - name: Ler os sistemas da Ágape
+        run: node robo/coletar-sistemas.mjs
+        continue-on-error: true
+        timeout-minutes: 30
+
       - name: Guardar a lista no repositório (histórico)
         run: |
           git config user.name "robo-transparencia"

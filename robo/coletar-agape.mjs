@@ -22,6 +22,7 @@ const PASTAS = {
   cotas: { f: 22039, titulo: 'Verba indenizatória (notas explicativas)' },
   votacoesNominais: { f: 22036, titulo: 'Votações nominais' },
   pca: { f: 20947, titulo: 'Plano de Contratações Anual (PCA)' },
+  atasSRP: { f: 24139, titulo: 'Atas de adesão – SRP (notas explicativas)' },
   sancoes: { f: 24141, titulo: 'Licitantes sancionados (notas explicativas)' },
   estagiarios: { f: 21652, titulo: 'Estagiários (declarações)' },
   terceirizados: { f: 21666, titulo: 'Terceirizados (declarações)' },
