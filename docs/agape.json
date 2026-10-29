@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-10-28T15:39:04.032Z",
+ "atualizado": "2026-10-29T15:45:00.751Z",
  "fonte": "portal.sitesagapesistemas.com.br (alias cmlagarto)",
  "pastas": {
   "balancoGeral": {
    "f": 22024,
    "titulo": "Prestação de Contas (Balanço Geral)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2025",
@@ -60,7 +60,7 @@
   "relatorioGestao": {
    "f": 2972,
    "titulo": "Relatório de Gestão, Certificado de Auditoria e Parecer do Controle Interno",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2025",
@@ -99,7 +99,7 @@
   "julgamentoTCE": {
    "f": 27398,
    "titulo": "Julgamento das contas do Legislativo pelo TCE",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -186,7 +186,7 @@
   "julgamentoExecutivo": {
    "f": 27397,
    "titulo": "Julgamento das contas do Executivo",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -305,7 +305,7 @@
   "rgf": {
    "f": 36,
    "titulo": "Relatório de Gestão Fiscal (RGF)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -408,7 +408,7 @@
   "planoEstrategico": {
    "f": 22017,
    "titulo": "Plano Estratégico Institucional",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2023",
@@ -423,7 +423,7 @@
   "convenios": {
    "f": 3883,
    "titulo": "Convênios e transferências (notas explicativas)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -462,7 +462,7 @@
   "obras": {
    "f": 19433,
    "titulo": "Obras",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -533,7 +533,7 @@
   "cotas": {
    "f": 22039,
    "titulo": "Verba indenizatória (notas explicativas)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -588,7 +588,7 @@
   "votacoesNominais": {
    "f": 22036,
    "titulo": "Votações nominais",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -635,7 +635,7 @@
   "pca": {
    "f": 20947,
    "titulo": "Plano de Contratações Anual (PCA)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -666,7 +666,7 @@
   "atasSRP": {
    "f": 24139,
    "titulo": "Atas de adesão – SRP (notas explicativas)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -729,7 +729,7 @@
   "sancoes": {
    "f": 24141,
    "titulo": "Licitantes sancionados (notas explicativas)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -792,7 +792,7 @@
   "estagiarios": {
    "f": 21652,
    "titulo": "Estagiários (declarações)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -863,7 +863,7 @@
   "terceirizados": {
    "f": 21666,
    "titulo": "Terceirizados (declarações)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -934,7 +934,7 @@
   "concursos": {
    "f": 20605,
    "titulo": "Concursos e processos seletivos (declarações)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -1053,7 +1053,7 @@
   "fiscaisContratos": {
    "f": 24140,
    "titulo": "Relação de contratos e fiscais",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
@@ -1100,7 +1100,7 @@
   "quadroRemuneratorio": {
    "f": 2960,
    "titulo": "Quadro remuneratório de cargos",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2025",
@@ -1139,7 +1139,7 @@
   "diarias": {
    "f": 20911,
    "titulo": "Diárias (lei e tabela de valores)",
-   "lidoEm": "2026-10-28T15:39:04.032Z",
+   "lidoEm": "2026-10-29T15:45:00.751Z",
    "docs": [
     {
      "ano": "2026",
